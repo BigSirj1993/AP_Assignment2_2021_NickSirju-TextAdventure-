@@ -1,0 +1,26 @@
+﻿  Enemy.cpp
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Enemy.cpp(10,18): warning C4552: '+': result of expression not used
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Enemy.cpp(11,18): warning C4552: '+': result of expression not used
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Enemy.cpp(12,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Event.cpp
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\BackPack.h(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Event.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Event.cpp(69,7): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Event.cpp(125,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Event.cpp(266,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Event.cpp(357,33): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Event.cpp(374,69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Event.cpp(375,57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Event.cpp(509,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Event.cpp(510,89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Game.cpp
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\BackPack.h(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Game.cpp(520,36): warning C4018: '>=': signed/unsigned mismatch
+  Main.cpp
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\BackPack.h(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Main.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Player.h(58): warning C4172: returning address of local variable or temporary
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Player.h(58): warning C4172: returning address of local variable or temporary
+C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\AP_Assignment2_2021_NickSirju(TextAdventure)\Player.h(56): warning C4172: returning address of local variable or temporary
+  AP_Assignment2_2021_NickSirju(TextAdventure).vcxproj -> C:\Users\owner\source\repos\AP_Assignment2_2021_NickSirju(TextAdventure)\Debug\AP_Assignment2_2021_NickSirju(TextAdventure).exe

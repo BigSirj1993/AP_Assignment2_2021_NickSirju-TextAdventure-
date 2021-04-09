@@ -1,0 +1,4 @@
+Nick 9 96 2 24 16 10 10 76  79 82 21 0 0 Long  0  0   0   0   0    0    1   Random   2   0   0   0   0   0   1   Random   2   0   0   0   0   0   1   Random   1   0   0   0   0   0   1   Random   1   0   0   0   0   0   
+
+Long 2 93 1 0 15 10 10 81  75 78 20 0 0 Long  0  0   0   0   0    0    1   Random   1   0   0   0   0   0   1   Random   2   0   0   0   0   0   1   Random   1   0   0   0   0   0   1   Random   2   0   0   0   0   0   
+
